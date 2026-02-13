@@ -26,12 +26,8 @@ dist-ssr
 .claude/*
 .serena/*
 
-# Firebase
-.firebase/
-.firebaserc
-firebase-debug.log
-firestore-debug.log
-ui-debug.log
+# Vercel
+.vercel
 
 # env files (all .env files contain secrets)
 .env
